@@ -1,5 +1,4 @@
-# Backstage
-## Laravel packages & Filament plugins
+# Backstage: Laravel packages & Filament plugins
 
 ### Nice to meet you, we're [Vormkracht10](https://vormkracht10.nl)
 
