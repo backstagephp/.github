@@ -1,4 +1,4 @@
-# About Backstage
+## About Backstage
 
 We create Laravel packages & Filament plugins under the name Backstage, this is done by our team [@vormkracht10](https://github.com/vormkracht10).
 
