@@ -1,6 +1,6 @@
 ## About Backstage
 
-[@vormkracht10](https://github.com/vormkracht10) we craft Laravel packages & Filament plugins under the name Backstage.
+At Backstage we carefully craft quality Laravel packages & Filament plugins under the name Backstage as a Dutch Digital Agency [@vormkracht10](https://github.com/vormkracht10).
 
 ### Nice to meet you: We are [Vormkracht10](https://vormkracht10.nl)
 
